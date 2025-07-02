@@ -1,7 +1,7 @@
 # Programa: Ejemplo de Programación Orientada a Objetos
 # Tema: Herencia, Encapsulación y Polimorfismo
-# Autor: [Tu Nombre]
-# Fecha: [Fecha]
+# Autor: [Jakelyn Veloz]
+# Fecha: [1/7/2025]
 # Descripción: Este programa modela vehículos utilizando clases y POO
 
 # Clase base
